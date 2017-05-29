@@ -35,7 +35,7 @@ body {
   height: 50px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #233663;
+  background-color: #FFFFFF;
   padding: 0px 10px;
   padding-top: 18px;
 }
@@ -43,7 +43,7 @@ body {
 .nav li {
   display: block;
   float: left;
-  color: #FFFFFF;
+  color: #233636;
   font-family: 'Quicksand', sans-serif;
   padding: 6px 20px;
   margin-left: 100px;

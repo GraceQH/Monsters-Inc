@@ -35,7 +35,7 @@ body {
   height: 50px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #233663;
+  background-color: #FFFFFF;
   padding: 0px 10px;
   padding-top: 18px;
 }
@@ -43,7 +43,7 @@ body {
 .nav li {
   display: block;
   float: left;
-  color: #FFFFFF;
+  color: #233636;
   font-family: 'Quicksand', sans-serif;
   padding: 6px 20px;
   margin-left: 100px;
@@ -54,11 +54,27 @@ body {
 }
 
 .box1 {
-    margin-top: -16px;;
+  margin-top: -16px;
+  height: 100px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #222222;
+}
+
+.box2 {
+    margin-top: -16px;
     height: 300px;
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
     background-color: #222222;
   }
-}
+
+  .box2 p {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1rem;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
