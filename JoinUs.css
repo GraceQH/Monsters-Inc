@@ -47,11 +47,14 @@ body {
   font-family: 'Quicksand', sans-serif;
   padding: 6px 20px;
   margin-left: 100px;
+
 }
+
 
 .nav li:last-child {
   border-right: none;
 }
+
 
 .about {
     margin-top: -16px;;
