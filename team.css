@@ -99,7 +99,7 @@ body {
 }
 
 .meettheteam img {
-  max-width: 200px;
+  max-width: 300px;
   margin-top: 150px;
   width: 100%;
   margin-left: 45px;
@@ -111,7 +111,7 @@ body {
   max-width: 150px;
   margin-top: 50px;
   width: 100%;
-  margin-left: 60px;
+  margin-left: 100px;
   margin-right: auto;
   float: left;
 }
@@ -126,6 +126,33 @@ body {
 }
 
 .photo3 img {
+  max-width: 150px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 100px;
+  margin-right: auto;
+  float: left;
+}
+
+.photo4 img {
+  max-width: 150px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 100px;
+  margin-right: auto;
+  float: left;
+}
+
+.photo5 img {
+  max-width: 150px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 445px;
+  margin-right: auto;
+  float: left;
+}
+
+.photo6 img {
   max-width: 150px;
   margin-top: 50px;
   width: 100%;
