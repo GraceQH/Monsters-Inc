@@ -6,9 +6,7 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 
-* {
-  outline: 1px dotted lime;
-}
+
 
 .header {
   background-color: #FFFFFF;
