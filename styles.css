@@ -132,9 +132,28 @@ a {
   background-color: #B1B1B1;
 }
 
+.monsterface img {
+  max-width: 100px;
+  margin-top: 25px;
+  width: 100%;
+  margin-left: 130px;
+  margin-right: auto;
+  float: left;
+}
+
+.monsterface2 img {
+  max-width: 100px;
+  margin-top: 20px;
+  width: 100%;
+  margin-left: 150px;
+  margin-right: auto;
+  float: left;
+}
+
+
 .projects .box1 {
   margin-top: 100px;;
-  height: 300px;
+  height: 370px;
   width: 240px;
   margin-left: 400px;
   margin-right: auto;
@@ -148,13 +167,13 @@ a {
   font-size: 0.8rem;
   margin-left: 20px;
   margin-right: 20px;
-  margin-top: 50px;
+  margin-top: 30px;
   float: left;
 }
 
 .projects .box2 {
-  margin-top: -300px;;
-  height: 300px;
+  margin-top: -370px;;
+  height: 370px;
   width: 240px;
   margin-left: 660px;
   margin-right: auto;
@@ -162,13 +181,13 @@ a {
   float: left;
 }
 
-.projects p {
+.projects p1 {
   color: white;
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
   font-size: 0.8rem;
   margin-left: 20px;
   margin-right: 20px;
-  margin-top: 50px;
+  margin-top: 140px;
   float: left;
 }
