@@ -6,6 +6,9 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 
+* {
+  outline: 1px dotted yellow;
+}
 
 
 .header {
@@ -125,7 +128,7 @@ a {
 
 .projects {
   margin-top: -100px;;
-  height: 400px;
+  height: 460px;
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
