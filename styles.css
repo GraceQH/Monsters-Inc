@@ -51,6 +51,11 @@ body {
   border-right: none;
 }
 
+a {
+  text-decoration: none;
+}
+
+
 .about {
     margin-top: -16px;;
     height: 430px;
