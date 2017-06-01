@@ -242,14 +242,34 @@ a {
     float: left;
 }
 
-.finalwords {
+.finalwordsborder {
   margin-top: 0px;
-  height: 200px;
+  height: 50px;
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
   background-color: #FFFFFF;
 }
+
+.finalwords {
+  margin-top: 0px;
+  height: 150px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+}
+
+.finalwords p {
+  color: #323232;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: 0.8rem;
+  margin-left: 200px;
+  margin-right: 100px;
+  margin-top: 0px;
+}
+
 
 .disney img {
   max-width: 200px;
