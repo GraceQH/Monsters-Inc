@@ -129,3 +129,68 @@ a {
     margin-left: auto;
     margin-right: auto;
   }
+
+  @media (max-width: 760px) {
+
+    .header img {
+      max-width: 750px;
+      height: 350px;
+      margin-left: 0px;
+      margin-right: 0px;
+      margin-top: 0px;
+    }
+
+    .headerContainer {
+      overflow: hidden;
+      max-width: 750px;
+
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .nav {
+      width: 750px;
+      height: px;
+      margin-left: auto;
+      margin-right: auto;
+      background-color: #FFFFFF;
+      padding: 0px 2px;
+      padding-top: 5px;
+    }
+
+    .nav li {
+      display: block;
+      float: left;
+      color: #233636;
+      font-family: 'Quicksand', sans-serif;
+      padding: 6px 20px;
+      margin-left: 50px;
+
+
+    }
+
+    .JoinUS {
+        margin-top: -16px;;
+        height: 1050px;
+        width: 750px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #323232;
+
+
+  }
+
+  .outercontainer{
+    width: 500px;
+    padding-left: 130px;
+    padding-top: 40px;
+  }
+
+  .JoinUS img {
+    width: 200px;
+    height: 40px;
+    padding-left: 280px;
+    padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+  }
