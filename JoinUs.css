@@ -130,6 +130,8 @@ a {
     margin-right: auto;
   }
 
+
+/* Iphone 6 */
   @media (max-width: 760px) {
 
     .header img {
