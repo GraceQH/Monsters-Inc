@@ -73,7 +73,7 @@ a {
   padding-top: 40px;
 }
 
-  /* Full-width input fields */
+
   input[type=text], input[type=Email], input[type="Contact"], input[type="Experience"] {
       width: 100%;
       padding: 12px 20px;
@@ -83,7 +83,7 @@ a {
       box-sizing: border-box;
   }
 
-  /* Set a style for all buttons */
+
   button {
       background-color: #7CE2D4;
       color: white;
@@ -94,25 +94,25 @@ a {
       width: 100%;
   }
 
-  /* Extra styles for the cancel button */
+
   .cancelbtn {
       padding: 14px 20px;
       background-color: #A298E1;
   }
 
-  /* Float cancel and signup buttons and add an equal width */
+
   .cancelbtn,.signupbtn {
       float: left;
       width: 50%;
   }
 
-  /* Add padding to container elements */
+
   .formcontainer {
       padding: 16px;
       color: white;
   }
 
-  /* Clear floats */
+
   .clearfix::after {
       content: "";
       clear: both;
