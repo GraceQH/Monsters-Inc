@@ -1,9 +1,11 @@
-
-
 body {
   background-color: #FFFFFF;
   margin: 0;
   font-family: 'Quicksand', sans-serif;
+}
+
+* {
+  outline: 1px dotted lime;
 }
 
 .header {
@@ -99,65 +101,19 @@ a {
   background-color: #B1B1B1;
 }
 
-
-.photo1 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 100px;
+.ImageBox {
+  margin-top: 0px;
+  height: 700px;
+  width: 600px;
+  margin-left: auto;
   margin-right: auto;
-  float: left;
+  background-color: #B1a1B1;
 }
 
-.photo2 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 100px;
-  margin-right: auto;
-  float: left;
-}
-
-.photo3 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 445px;
-  margin-right: auto;
-  float: left;
-}
-
-.photo4 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 100px;
-  margin-right: auto;
-  float: left;
-}
-
-.photo5 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 445px;
-  margin-right: auto;
-  float: left;
-}
-
-.photo6 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 100px;
-  margin-right: auto;
-  float: left;
-}
-
-.container {
+.Sulley {
   position: relative;
   width: 50%;
-  max-width: 150px;
+  max-width: 200px;
   margin-top: 50px;
   width: 100%;
   margin-left: 100px;
@@ -183,7 +139,7 @@ a {
   transition: .5s ease;
 }
 
-.container:hover .overlay {
+.Sulley:hover .overlay {
   height: 100%;
 }
 
@@ -199,10 +155,10 @@ a {
   -ms-transform: translate(-50%, -50%);
 }
 
-.container2 {
+.Mike {
   position: relative;
   width: 50%;
-  max-width: 150px;
+  max-width: 200px;
   margin-top: 50px;
   width: 100%;
   margin-left: 100px;
@@ -210,11 +166,11 @@ a {
   float: left;
 }
 
-.container2:hover .overlay {
+.Mike:hover .overlay {
   height: 100%;
 }
 
-.container3 {
+.Randall {
   position: relative;
   width: 50%;
   max-width: 150px;
@@ -223,4 +179,8 @@ a {
   margin-left: 100px;
   margin-right: auto;
   float: left;
+}
+
+.Randall:hover .overlay {
+  height: 100%;
 }
