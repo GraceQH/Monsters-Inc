@@ -91,7 +91,7 @@ a {
 
 .box4 {
   margin-top: 0px;
-  height: 1000px;
+  height: 1150px;
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
@@ -104,6 +104,14 @@ a {
   width: 600px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.MeetTheTeam img {
+  max-width: 1000px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-top: 30px;
 }
 
 .Sulley {
@@ -223,5 +231,35 @@ a {
 }
 
 .Charlie:hover .overlay {
+  height: 100%;
+}
+
+.Celia {
+  position: relative;
+  width: 50%;
+  max-width: 200px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 50px;
+  margin-right: auto;
+  float: left;
+}
+
+.Celia:hover .overlay {
+  height: 100%;
+}
+
+.Roz {
+  position: relative;
+  width: 50%;
+  max-width: 200px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 100px;
+  margin-right: auto;
+  float: left;
+}
+
+.Roz:hover .overlay {
   height: 100%;
 }
