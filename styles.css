@@ -215,11 +215,11 @@ a {
   font-size: 1rem;
   margin-left: 400px;
   margin-right: 100px;
-  margin-top: 0px;
+  margin-top: -5px;
 }
 
 .newsletter {
-  margin-top: 0px;
+  margin-top: -5px;
   height: 130px;
   width: 1000px;
   margin-left: auto;

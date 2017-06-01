@@ -6,10 +6,6 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 
-* {
-  outline: 1px dotted yellow;
-}
-
 .header {
   background-color: #FFFFFF;
   color: white;
@@ -44,7 +40,7 @@ body {
 .nav li {
   display: block;
   float: left;
-  color: #f323232;
+  color: #323232;
   font-family: 'Quicksand', sans-serif;
   padding: 6px 20px;
   margin-left: 100px;
@@ -70,6 +66,71 @@ a {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #323232;
+    background-color: #B1B1B1;
   }
+
+.about p {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-left: 130px;
+  margin-right: auto;
+  margin-top: 60px;
+  float: left;
+}
+
+.about p1 {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-size: 0.8rem;
+  margin-left: -155px;
+  margin-right: auto;
+  margin-top: 90px;
+  float: left;
+}
+
+.about p2 {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-left: 80px;
+  margin-right: auto;
+  margin-top: 40px;
+  float: left;
+}
+
+.about p3 {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-size: 0.8rem;
+  margin-left: -170px;
+  margin-right: auto;
+  margin-top: 68px;
+  float: left;
+}
+
+.about p4 {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-left: 150px;
+  margin-right: auto;
+  margin-top: 20px;
+  float: left;
+}
+
+.about p5 {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-size: 0.8rem;
+  margin-left: -70px;
+  margin-right: auto;
+  margin-top: 50px;
+  float: left;
 }
