@@ -213,3 +213,14 @@ a {
 .container2:hover .overlay {
   height: 100%;
 }
+
+.container3 {
+  position: relative;
+  width: 50%;
+  max-width: 150px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 100px;
+  margin-right: auto;
+  float: left;
+}
