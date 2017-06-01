@@ -104,7 +104,7 @@ a {
 }
 
 .border {
-  margin-top: 0px;;
+  margin-top: 0px;
   height: 100px;
   width: 1000px;
   margin-left: auto;
@@ -188,4 +188,84 @@ a {
   margin-right: 20px;
   margin-top: 140px;
   float: left;
+}
+
+.border2 {
+  margin-top: 0px;
+  height: 100px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #566D96;
+}
+
+.border3 {
+  margin-top: 0px;
+  height: 30px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #566D96;
+}
+
+.border3 p {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  margin-left: 400px;
+  margin-right: 100px;
+  margin-top: 0px;
+}
+
+.newsletter {
+  margin-top: 0px;
+  height: 130px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #566D96;
+}
+
+
+.newsletter form {
+  margin-left: 400px;
+  margin-top: 0px;
+}
+
+.newsletterhead img {
+    max-width: 300px;
+    margin-top: -30px;
+    width: 100%;
+    margin-left: 45px;
+    margin-right: auto;
+    float: left;
+}
+
+.finalwords {
+  margin-top: 0px;
+  height: 200px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+}
+
+.disney img {
+  max-width: 200px;
+  margin-top: -100px;
+  width: 100%;
+  margin-left: 400px;
+  margin-right: auto;
+  float: left;
+}
+
+.asseenin p {
+  color: #323232;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-size: 0.8rem;
+  margin-left: 400px;
+  margin-right: 100px;
+  margin-top: -130px;
 }
