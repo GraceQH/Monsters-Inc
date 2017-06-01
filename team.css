@@ -1,10 +1,9 @@
-
-
 body {
   background-color: #FFFFFF;
   margin: 0;
   font-family: 'Quicksand', sans-serif;
 }
+
 
 .header {
   background-color: #FFFFFF;
@@ -99,68 +98,21 @@ a {
   background-color: #B1B1B1;
 }
 
-
-.photo1 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 100px;
+.ImageBox {
+  margin-top: 0px;
+  height: 700px;
+  width: 600px;
+  margin-left: auto;
   margin-right: auto;
-  float: left;
 }
 
-.photo2 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 100px;
-  margin-right: auto;
-  float: left;
-}
-
-.photo3 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 445px;
-  margin-right: auto;
-  float: left;
-}
-
-.photo4 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 100px;
-  margin-right: auto;
-  float: left;
-}
-
-.photo5 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 445px;
-  margin-right: auto;
-  float: left;
-}
-
-.photo6 img {
-  max-width: 150px;
-  margin-top: 50px;
-  width: 100%;
-  margin-left: 100px;
-  margin-right: auto;
-  float: left;
-}
-
-.container {
+.Sulley {
   position: relative;
-  width: 50%;
-  max-width: 150px;
+  width: 100%;
+  max-width: 200px;
   margin-top: 50px;
   width: 100%;
-  margin-left: 100px;
+  margin-left: 50px;
   margin-right: auto;
   float: left;
 }
@@ -183,14 +135,14 @@ a {
   transition: .5s ease;
 }
 
-.container:hover .overlay {
+.Sulley:hover .overlay {
   height: 100%;
 }
 
 .text {
   white-space: nowrap;
   color: white;
-  font-size: 15px;
+  font-size: 10px;
   position: absolute;
   overflow: hidden;
   top: 50%;
@@ -199,10 +151,10 @@ a {
   -ms-transform: translate(-50%, -50%);
 }
 
-.container2 {
+.Mike {
   position: relative;
   width: 50%;
-  max-width: 150px;
+  max-width: 200px;
   margin-top: 50px;
   width: 100%;
   margin-left: 100px;
@@ -210,6 +162,36 @@ a {
   float: left;
 }
 
-.container2:hover .overlay {
+.Mike:hover .overlay {
+  height: 100%;
+}
+
+.Randall {
+  position: relative;
+  width: 50%;
+  max-width: 200px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 50px;
+  margin-right: auto;
+  float: left;
+}
+
+.Randall:hover .overlay {
+  height: 100%;
+}
+
+.Fungus {
+  position: relative;
+  width: 50%;
+  max-width: 200px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 100px;
+  margin-right: auto;
+  float: left;
+}
+
+.Fungus:hover .overlay {
   height: 100%;
 }
