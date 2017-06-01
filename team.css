@@ -91,7 +91,7 @@ a {
 
 .box4 {
   margin-top: 0px;
-  height: 700px;
+  height: 1000px;
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
@@ -193,5 +193,20 @@ a {
 }
 
 .Fungus:hover .overlay {
+  height: 100%;
+}
+
+.George {
+  position: relative;
+  width: 50%;
+  max-width: 200px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 50px;
+  margin-right: auto;
+  float: left;
+}
+
+.George:hover .overlay {
   height: 100%;
 }
