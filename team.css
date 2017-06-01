@@ -210,3 +210,18 @@ a {
 .George:hover .overlay {
   height: 100%;
 }
+
+.Charlie {
+  position: relative;
+  width: 50%;
+  max-width: 200px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 100px;
+  margin-right: auto;
+  float: left;
+}
+
+.Charlie:hover .overlay {
+  height: 100%;
+}
