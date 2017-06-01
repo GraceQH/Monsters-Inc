@@ -4,9 +4,6 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 
-* {
-  outline: 1px dotted lime;
-}
 
 .header {
   background-color: #FFFFFF;
@@ -107,16 +104,15 @@ a {
   width: 600px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #B1a1B1;
 }
 
 .Sulley {
   position: relative;
-  width: 50%;
+  width: 100%;
   max-width: 200px;
   margin-top: 50px;
   width: 100%;
-  margin-left: 100px;
+  margin-left: 50px;
   margin-right: auto;
   float: left;
 }
@@ -146,7 +142,7 @@ a {
 .text {
   white-space: nowrap;
   color: white;
-  font-size: 15px;
+  font-size: 10px;
   position: absolute;
   overflow: hidden;
   top: 50%;
@@ -173,7 +169,22 @@ a {
 .Randall {
   position: relative;
   width: 50%;
-  max-width: 150px;
+  max-width: 200px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 50px;
+  margin-right: auto;
+  float: left;
+}
+
+.Randall:hover .overlay {
+  height: 100%;
+}
+
+.Fungus {
+  position: relative;
+  width: 50%;
+  max-width: 200px;
   margin-top: 50px;
   width: 100%;
   margin-left: 100px;
@@ -181,6 +192,6 @@ a {
   float: left;
 }
 
-.Randall:hover .overlay {
+.Fungus:hover .overlay {
   height: 100%;
 }
