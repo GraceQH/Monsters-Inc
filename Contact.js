@@ -4,4 +4,6 @@ var mapProp= {
     zoom:5,
 };
 var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+marker.setMap(map);
 }
