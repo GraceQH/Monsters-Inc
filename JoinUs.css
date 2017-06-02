@@ -132,23 +132,29 @@ a {
 
 
 /* Iphone 6 */
-  @media (max-width: 760px) {
+@media only screen and (max-width: 750px) {
 
-    .header img {
-      max-width: 750px;
-      height: 350px;
-      margin-left: 0px;
-      margin-right: 0px;
-      margin-top: 0px;
+    .header {
+      background-color: #FFFFFF;
+      color: white;
+      height: 275px;
     }
 
-    .headerContainer {
-      overflow: hidden;
-      max-width: 750px;
+      .header img {
+        max-width: 750px;
+        width: 100%
+        height: 275px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+      }
 
-      margin-left: auto;
-      margin-right: auto;
-    }
+      .headerContainer {
+        overflow: hidden;
+        max-width: 750px;
+        margin-left: auto;
+        margin-right: auto;
+      }
 
     .nav {
       width: 750px;
@@ -189,9 +195,9 @@ a {
   }
 
   .JoinUS img {
-    width: 200px;
-    height: 40px;
-    padding-left: 280px;
+    width: 400px;
+    height: auto;
+    padding-left: 170px;
     padding-top: 40px;
     margin-left: auto;
     margin-right: auto;
